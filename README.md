@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.motoave.eu" target="blank">Motoave</a>
 
-- 🌱 I’m currently learning **Angular, Swift**
+- 🌱 I’m currently learning **Angular, NextJS, NuxtJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
