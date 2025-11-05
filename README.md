@@ -1,10 +1,6 @@
 <h1 align="center">Hello, I am Pawel 🥶</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawciuz&show_icons=true&locale=en&layout=compact" alt="pawciuz" /></p>
-
-- 🔭 I’m currently working on <a href="https://www.motoave.eu" target="blank">Motoave</a>
-
-- 🌱 I’m currently learning **Angular, NextJS, NuxtJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
